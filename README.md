@@ -6,3 +6,5 @@ uses latest versions of stable libs as of 5/12/13:
 bootstrap 2.3.1
 font-awesome 3.1.1
 less 1.3.3
+
+using LESS doesn't seem to work locally, unfortunately, because of the strict enforcement of AJAX to load LESS files to be http only.
